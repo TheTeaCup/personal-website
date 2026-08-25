@@ -7,7 +7,6 @@ import { Skills } from "@/components/homepage/skills";
 import { Navbar } from "@/components/navbar";
 import { Box } from "@chakra-ui/react";
 
-
 export default function Home() {
   return (
     <Box minH="100vh" bg="gray.950" color="white">
